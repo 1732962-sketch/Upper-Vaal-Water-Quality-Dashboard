@@ -1,0 +1,16 @@
+"year","Parameter","High-Low","Low-Low","Not Significant","Low-High","High-High"
+2016,"pH_median",2,5,38,0,0
+2016,"EC_median",0,0,42,3,0
+2016,"SO4_median",0,0,40,4,1
+2017,"pH_median",1,6,38,0,0
+2017,"EC_median",0,0,43,2,0
+2017,"SO4_median",0,0,42,3,0
+2018,"pH_median",1,5,39,0,0
+2018,"EC_median",0,0,45,0,0
+2018,"SO4_median",0,0,42,3,0
+2019,"pH_median",3,4,38,0,0
+2019,"EC_median",0,0,45,0,0
+2019,"SO4_median",0,0,43,2,0
+2020,"pH_median",3,4,38,0,0
+2020,"EC_median",0,0,42,2,1
+2020,"SO4_median",0,0,44,1,0
